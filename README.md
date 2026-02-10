@@ -118,6 +118,8 @@ echo '<!DOCTYPE html>
     </div>
 </body>
 </html>' > index.html
+git push -u origin main
+
 
 
 

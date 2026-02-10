@@ -190,6 +190,7 @@ echo '<!DOCTYPE html>
 </body>
 </html>' > index.html
 
+git add index.html
 
 
 

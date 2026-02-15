@@ -1,3 +1,8 @@
+# Dashboard de Clima - Dentalmovil
+
+<p align="center">
+  <img src="tu-imagen.jpg" width="300" alt="Logo Dentalmovil">
+</p>
 # Pr-tesis-dentales-
 Las prótesis dentales son dispositivos que se utilizan para reemplazar los dientes faltantes o dañados. Estos dispositivos están diseñados para restaurar la funcionalidad y la estética de la boca. Hay diferentes tipos de prótesis dentales, como dentaduras postizas, coronas dentales y puentes dentales.
      

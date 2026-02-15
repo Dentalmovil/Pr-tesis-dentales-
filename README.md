@@ -190,8 +190,6 @@ echo '<!DOCTYPE html>
 </body>
 </html>' > index.html
 
-git add index.html
-git commit -m "Añadido catálogo detallado de servicios"
 
 
 

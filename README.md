@@ -1,7 +1,4 @@
 # 🦷 Sistema de Gestión de Prótesis Dentales - Dentalmovil
-
-![Estado del Build](https://img.shields.io/github/actions/workflow/status/Dentalmovil/NOMBRE_DE_TU_REPO/webpack.yml?branch=main)
-
 Este repositorio contiene la plataforma especializada para el seguimiento, diseño y administración de **Prótesis Dentales**. Un enfoque digital para la odontología moderna.
 
 ## 📋 Módulos del Proyecto

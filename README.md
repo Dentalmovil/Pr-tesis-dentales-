@@ -17,7 +17,6 @@ Este repositorio contiene la plataforma especializada para el seguimiento, dise�
 * **Firebase**: Base de datos en tiempo real para actualizaciones inmediatas.
 
 ## ⚙️ Configuración Inicial
-Para trabajar en este repositorio sin errores de "build":
 
 ## 📸 Galería
 <p align="center">

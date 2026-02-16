@@ -12,7 +12,12 @@ Este repositorio contiene la plataforma especializada para el seguimiento, dise�
 * **Tailwind CSS**: Para un diseño "Aesthetic" y profesional.
 * **Firebase**: Base de datos en tiempo real para actualizaciones inmediatas.
 
-## ⚙️ Configuración Inicial
+## ⚙️ ​📋 Módulos Principales:
+
+​Control de Casos: Seguimiento detallado desde la toma de impresión hasta la entrega final.
+​Especificaciones Técnicas: Registro de materiales (Zirconio, Disilicato, Acrílicos de alto impacto).
+​Galería de Trabajo: Espacio para documentación fotográfica de los procesos de laboratorio.
+​Panel Administrativo: Gestión de fechas de entrega y estados de pago.
 
 ## 📸 Galería
 <p align="center">

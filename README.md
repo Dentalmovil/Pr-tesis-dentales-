@@ -19,12 +19,6 @@ Este repositorio contiene la plataforma especializada para el seguimiento, dise�
 ## ⚙️ Configuración Inicial
 Para trabajar en este repositorio sin errores de "build":
 
-1. Instala las dependencias:
-   `npm install`
-2. Instala Webpack CLI (para evitar errores en GitHub Actions):
-   `npm install --save-dev webpack-cli`
-3. Crea tu archivo `.env` con las credenciales necesarias.
-
 ## 📸 Galería
 <p align="center">
   <img src="URL_DE_TU_FOTO_DE_GOOGLE_O_GITHUB" width="400" alt="Vista Previa Prótesis">
